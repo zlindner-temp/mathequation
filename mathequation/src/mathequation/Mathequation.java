@@ -16,5 +16,7 @@ public class Mathequation {
     public static void main(String[] args) {
         // TODO code application logic here
         // Chuckie: I have -10/
+        
+        // Ariana: I have 5
     }
 }
