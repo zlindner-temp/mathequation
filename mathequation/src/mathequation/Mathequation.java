@@ -13,5 +13,7 @@ public class Mathequation {
         
         //Chuckie: zach finish it hitler
         //Marcus: sorry it took so long
+       
+        // 5 *4- -10' /2
     }
 }
