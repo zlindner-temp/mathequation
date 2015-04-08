@@ -9,7 +9,6 @@ public class Mathequation {
         // Ariana: I have 5
         
         //Zach: *4-
-        //i have /2
         
     }
 }
