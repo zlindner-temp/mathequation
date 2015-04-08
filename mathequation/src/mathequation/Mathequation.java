@@ -10,5 +10,7 @@ public class Mathequation {
         
         //Zach: *4-
         //Marcus : /2
+        
+        //Chuckie: zach finish it hitler
     }
 }
