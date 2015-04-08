@@ -12,6 +12,6 @@ public class Mathequation {
         //Marcus : /2
         
         //Chuckie: zach finish it hitler
-        //Marcus: sorry it took so
+        //Marcus: sorry it took so long
     }
 }
